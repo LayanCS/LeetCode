@@ -9,7 +9,8 @@ My solutions
 | 13 | [Roman to Integer](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/roman-to-integer.py) | Easy |
 | 119 | [Pascal's Triangle II](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Pascals-Triangle-II.py) | Easy |
 | 274 | [H-index](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/h-index.py) | Medium |
-| 409 | [Longest Palindrome]() | Easy |
+| 409 | [Longest Palindrome](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Longest-Palindrome.py) | Easy |
+| 824 | [Goat Latin]() | Easy |
 | 1103 | [Distribute Candies to People]() | Easy |
 | 1286 |[Iterator for Combination](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Iterator-for-Combination.py) | Medium |
 
