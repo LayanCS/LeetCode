@@ -11,6 +11,7 @@ My solutions
 | 274 | [H-index](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/h-index.py) | Medium |
 | 409 | [Longest Palindrome](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Longest-Palindrome.py) | Easy |
 | 824 | [Goat Latin]() | Easy |
+| 905 | [Sort Array by Parity]() | Easy |
 | 1103 | [Distribute Candies to People]() | Easy |
 | 1286 |[Iterator for Combination](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Iterator-for-Combination.py) | Medium |
 
