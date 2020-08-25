@@ -11,8 +11,8 @@ My solutions
 | 274 | [H-index](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/h-index.py) | Medium |
 | 409 | [Longest Palindrome](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Longest-Palindrome.py) | Easy |
 | 824 | [Goat Latin](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Goat-Latin.py) | Easy |
-| 905 | [Sort Array by Parity]() | Easy |
-| 1103 | [Distribute Candies to People]() | Easy |
+| 905 | [Sort Array by Parity](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Sort-Array-by-Parity.py) | Easy |
+| 1103 | [Distribute Candies to People](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Distribute-Candies-to-People.py) | Easy |
 | 1286 |[Iterator for Combination](https://github.com/LayanCS/LeetCode/blob/master/Algorithms/Iterator-for-Combination.py) | Medium |
 
 
